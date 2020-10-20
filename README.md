@@ -1,6 +1,6 @@
 # Deep Statistical Solver
 
-This repository is the official implementation of Deep Statistical Solvers (currently under review at NeurIPS 2020)
+This repository is the official implementation of Deep Statistical Solvers (accepted at NeurIPS 2020, pdf available soon).
 
 The core idea is to address optimization problems with deep learning tools. 
 
