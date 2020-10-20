@@ -92,7 +92,7 @@ Check the notebooks to obtain these results.
 
 ### Linear systems experiments
 
-The best existing method is the LU decomposition
+The best existing method is the LU decomposition.
 
 | Model name         | Model 0 | Model 1 | Model 2 |
 | ------------------ |---------|---------|---------|
@@ -103,7 +103,8 @@ The best existing method is the LU decomposition
 
 ### AC power flow - 14 nodes
 
-The best existing method is the Newton-Raphson method (NR)
+The best existing method is the Newton-Raphson method (NR). The correlation is in term of active power flows through 
+power lines.
 
 | Model name         | Model 0 | Model 1 | Model 2 |
 | ------------------ |---------|---------|---------|
@@ -114,7 +115,8 @@ The best existing method is the Newton-Raphson method (NR)
 
 ### AC power flow - 118 nodes
 
-The best existing method is the Newton-Raphson method (NR)
+The best existing method is the Newton-Raphson method (NR). The correlation is in term of active power flows through 
+power lines.
 
 | Model name         | Model 0 | Model 1 | Model 2 |
 | ------------------ |---------|---------|---------|
